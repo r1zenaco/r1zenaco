@@ -1,8 +1,15 @@
-👋 Hi, I’m @r1zenaco
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Alex
+
+---
+- "Age is just a number" ⌛️ 2️⃣6️⃣
+- Born 🇷🇴 with 🇺🇸 heart
+- My Journey so far: From 📖Philology to 💻CS Graduate
+- Hopeless 🌹in love with my soulmate 👩🏻‍❤️‍👨🏻
+- Passionate about: 
+	- 🏀
+	- 🎮
+	- 👨🏻‍💻
+
 
 <!---
 r1zenaco/r1zenaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
